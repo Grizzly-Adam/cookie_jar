@@ -5,7 +5,7 @@ Cookie Jar for Minetest
 Adds glass cookie jar that can hold items in group:confection. Uses code from Itemshelf mod to make the cookie visible within the cookie jar.
 
 Source Code:
-Based on Itemsehlf. Do with is whatever you like.
+Based on Itemsehlf. Do with it whatever you like.
 License: WTFPL
 
 All Textures:
